@@ -7,5 +7,5 @@ Dieses Repository stellt ein umfassendes **Internal Audit Playbook für die Paym
 * **Prüfungsmodule:** Detaillierte Prüfungsschritte für technische und organisatorische Anforderungen.
 * **Vorlagen:** Muster für Prüfungsberichte und Maßnahmenverfolgung.
 
-## Lizenz
+Disclaimer: Dieses Repository ist ein fiktives Mock-Audit und dient ausschließlich zu Demonstrationszwecken. Die Inhalte basieren auf typischen aufsichtlichen Anforderungen, ersetzen jedoch keine formale Rechtsberatung oder tatsächliche Audit-Dokumentation.
 
