@@ -1,18 +1,11 @@
 # PSD2 Internal Audit Playbook
 
-This repository provides a practical internal audit playbook
-for assessing compliance with the Payment Services Directive (EU) 2015/2366 (PSD2).
+Dieses Repository stellt ein umfassendes **Internal Audit Playbook für die Payment Services Directive 2 (PSD2)** zur Verfügung. Es dient als Vorlage für interne Revisoren, um die Einhaltung der regulatorischen Anforderungen zu überprüfen.
 
-## Scope
-- Strong Customer Authentication (SCA)
-- XS2A / Third Party Provider (TPP) access
-- Fraud monitoring and prevention
-- Major incident reporting
+## Inhalt
+* **Methodik:** Risikobasierter Ansatz für PSD2-Audits.
+* **Prüfungsmodule:** Detaillierte Prüfungsschritte für technische und organisatorische Anforderungen.
+* **Vorlagen:** Muster für Prüfungsberichte und Maßnahmenverfolgung.
 
-## Focus
-- Payment services
-- IT security
-- Regulatory compliance
-
-## Disclaimer
-This repository is a mock-up for demonstration and educational purposes.
+## Lizenz
+Dieses Projekt ist unter der **[MIT-Lizenz](LICENSE)** lizenziert. Weitere Details finden Sie in der `LICENSE`-Datei.
