@@ -8,4 +8,4 @@ Dieses Repository stellt ein umfassendes **Internal Audit Playbook für die Paym
 * **Vorlagen:** Muster für Prüfungsberichte und Maßnahmenverfolgung.
 
 ## Lizenz
-Dieses Projekt ist unter der **[MIT-Lizenz](LICENSE)** lizenziert. Weitere Details finden Sie in der `LICENSE`-Datei.
+
